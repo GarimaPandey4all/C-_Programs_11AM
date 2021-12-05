@@ -1,0 +1,71 @@
+C - Procedural Programming Langauge - Functions - Divide a big problem into a functions
+
+int x, y;
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+sin()
+{
+   double x;
+}
+
+C++: OOPS
+
+Class, Object
+
+class A
+{
+int x, y;
+
+add()
+{}
+
+sub()
+{}
+
+div()
+{}
+
+mul()
+{}
+
+}
+
+class B
+{
+sin()
+{
+   double x;
+}
+}
+
+
+OOPS: Object Oriented Programming Langauge
+
+Features
+- Class, Object
+class - category, blueprint, layout : Logical Entity
+object - real world enity, physical entity
+
+- Constructor
+- Encapsulation and Abstraction(Data Hiding)
+- Inheritance
+- Polymorphism
+
+- Friend Function
+- Static
+
+Advanced
+- Exception Handling
+- Templates
+- Standard Template Library, STL
